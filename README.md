@@ -15,12 +15,12 @@ cd kube_yaml_learner
 Install dependencies
 
 ```bash
-pipenv install
+poetry install
 ```
 
 Start the program
 
 ```bash
-pipenv run python query.py
+poetry run python query.py
 ```
 
